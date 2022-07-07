@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321510855662",
+    "project_id": "fire4iot",
+    "storage_bucket": "fire4iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321510855662:android:7f60562dc14e4e430274ff",
+        "android_client_info": {
+          "package_name": "com.app_for_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321510855662-ikj0r5evuaf8jdlkvq2kih97brpv6fqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG6YnhDUUzsV3vxsNxRWgKF1u_3fyC8X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321510855662-ikj0r5evuaf8jdlkvq2kih97brpv6fqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
